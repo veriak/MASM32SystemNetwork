@@ -1,7 +1,7 @@
 ;----------------------------------------------------------------------------------------
 ; MASM32 Andvanced System Library
 ;
-; Copyright 2007 Veria Kalantary
+; Copyright 2010 Veria Kalantari
 ; veria.kalantary@gmail.com
 ; https://github.com/veriak
 ;
